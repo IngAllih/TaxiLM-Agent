@@ -1,0 +1,8 @@
+streamlit 
+torch 
+tokenizers 
+huggingface_hub 
+langchain-core 
+langchain 
+langgraph 
+requests 
